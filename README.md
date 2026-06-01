@@ -98,8 +98,4 @@ python3 visualize.py \
 The final model achieves a validation PSNR of **30.64 dB** and a public leaderboard
 PSNR of **31.38 dB** (with TTA applied at inference time).
 
-![Leaderboard](leaderboard.png)
-
-![Training Curves](curves.png)
-
-![Visualization](visualization.png)
+![Leaderboard](image.png)
