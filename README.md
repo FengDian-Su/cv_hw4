@@ -28,6 +28,7 @@ pip install lightning einops
 ```
 
 ### 3. Project structure
+```
 cv_hw4/
 ├── PromptIR/          # cloned from GitHub
 ├── dataset/
@@ -41,6 +42,7 @@ cv_hw4/
 ├── infer.py
 ├── visualize.py
 └── plot_log.py
+```
 
 ---
 
