@@ -41,7 +41,7 @@ cv_hw4/
 ├── train.py
 ├── infer.py
 ├── visualize.py
-└── plot_log.py
+└── plot.py
 ```
 
 ---
@@ -77,7 +77,7 @@ arrays, with filenames as keys (e.g., `0.png`, `1.png`, ...).
 
 ### Plot Training Curves
 ```bash
-python3 plot_log.py \
+python3 plot.py \
     --log checkpoints_p256/train_log.csv \
     --output curves.png
 ```
